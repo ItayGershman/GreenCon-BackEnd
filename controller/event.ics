@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:f6cd3057-de21-40e7-b765-a4d34424d806
+SUMMARY:Tech in recycle
+DTSTAMP:20200128T135300Z
+DTSTART:20200212T180000Z
+DESCRIPTION:We are going to talk about the integration of tech in recycle i
+	ndustry
+LOCATION:Ana Frank 12, Ramat Gan, Israel
+STATUS:CONFIRMED
+CATEGORIES:Recycle
+ORGANIZER;CN=Jane Smyth
+ATTENDEE;RSVP=FALSE;CN=itaygersh@gmail.com
+ATTENDEE;RSVP=FALSE;CN=itaygersh@gmail.com
+ATTENDEE;RSVP=FALSE;CN=remot.15.m@gmail.com
+ATTENDEE;RSVP=FALSE;CN=aviel.dagan@gmail.com
+ATTENDEE;RSVP=FALSE;CN=aviel.dagan@gmail.com
+ATTENDEE;RSVP=FALSE;CN=itaygersh@gmail.com
+ATTENDEE;RSVP=FALSE;CN=itaygersh@gmail.com
+ATTENDEE;RSVP=FALSE;CN=itaygersh@gmail.com
+ATTENDEE;RSVP=FALSE;CN=itaygersh@gmail.com
+DURATION:PT3H15M
+END:VEVENT
+END:VCALENDAR
